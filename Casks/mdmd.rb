@@ -1,6 +1,6 @@
 cask "mdmd" do
-  version "1.5.3"
-  sha256 "882c909861790fff5cb6e5103828be68be7bd332e1ba1a98deb43925284df91a"
+  version "1.6"
+  sha256 "b440881323ea4394c4c5d454109a2c9c0653ecdb68c732cd0005feab5ad9346d"
 
   url "https://www.mdmd.app/downloads/mdMD-#{version}.dmg"
   name "mdMD"
